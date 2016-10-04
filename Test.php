@@ -1,3 +1,3 @@
 <?php
 
-echo 'machtig mooi'
+echo 'machtig mooi';
